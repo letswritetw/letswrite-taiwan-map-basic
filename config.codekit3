@@ -9,16 +9,6 @@
 	],
 "creatorBuild": "31491",
 "files": {
-	"/design/台灣地圖.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/design/台灣地圖.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 52780316221407,
-		"prP": 0
-		},
 	"/dist/augurio-taiwan.min.css": {
 		"aP": 1,
 		"bl": 0,
