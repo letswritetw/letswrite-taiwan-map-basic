@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "31491",
 "files": {
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/dist/augurio-taiwan.min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -37,17 +45,6 @@
 		"oA": 0,
 		"oAP": "/dist/taiwan.geojson",
 		"oF": 0
-		},
-	"/favicon.png": {
-		"ft": 32768,
-		"iS": 3553,
-		"oA": 0,
-		"oAP": "/favicon.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
 		},
 	"/fb.png": {
 		"ft": 32768,
@@ -85,6 +82,25 @@
 		"oA": 0,
 		"oAP": "/LICENSE.txt",
 		"oF": 0
+		},
+	"/README.md": {
+		"cB": 0,
+		"cS": 0,
+		"eF": 1,
+		"eL": 1,
+		"ema": 1,
+		"eSQ": 1,
+		"ft": 4096,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/README.html",
+		"oF": 0,
+		"oFM": 0,
+		"oS": 0,
+		"pHT": 0,
+		"pME": 1,
+		"rFN": 0,
+		"uCM": 0
 		},
 	"/src/augurio-taiwan.js": {
 		"bF": 0,
