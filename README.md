@@ -2,4 +2,4 @@
 
 筆記文：[Let's Write](https://letswrite.tw/d3-vue-taiwan-map/)
 
-Demo：[demo](https://auguston.github.io/letswrite-taiwan-map-basic/)
+Demo：[demo](https://letswritetw.github.io/letswrite-taiwan-map-basic/)
