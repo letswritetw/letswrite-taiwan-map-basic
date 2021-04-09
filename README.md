@@ -1,4 +1,4 @@
-# d3、vue 畫一個台灣地圖
+# D3、Vue 畫一個台灣地圖
 
 筆記文：[Let's Write](https://letswrite.tw/d3-vue-taiwan-map/)
 
